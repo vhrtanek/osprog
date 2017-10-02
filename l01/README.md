@@ -1,6 +1,9 @@
 Lab 1
 =====
 
+Submit the solution of this task according to the
+[Submitting instructions](#submitting) before Tuesday Sep 10 23:59:59.
+
 To correctly submit this task:
 
 1. Fill out the
